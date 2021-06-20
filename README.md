@@ -8,5 +8,5 @@ The code is built out of Python,
 and it uses API to get the current weather info.
 it is that simple!  ....
 The API used in the code is from - OpenWeatherApp
-You can get the API for free just by signing in and paste the API key in the prefered postion.
+You can get the API for free just by signing in and paste the API key in line 20.
 ```
