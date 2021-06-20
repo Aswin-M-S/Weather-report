@@ -7,4 +7,5 @@ Python program to get the weather of a location just by giving input as the name
 and it uses API to get the current weather info.
 it is that simple!  ....
 The API used in the code is from - OpenWeatherApp
+You can get the API for free just by signing in and paste the API key in the prefered postion.
 ```
