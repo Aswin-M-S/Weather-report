@@ -17,7 +17,7 @@ print("")
 
 city = input("Enter a city name to check current weather")
 
-api_key = "8080d4edf5fb25a4c25cb09173c79229"
+api_key = "  "  # insert the api key here , you can get ityourself an API key just by signing on OpenWeatherMap
 
 api_link = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+api_key
 
